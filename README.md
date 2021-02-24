@@ -1,2 +1,2 @@
 # Project_Arduino
-Arduino Project
+This is the Arduino project designed and produced by myself.
